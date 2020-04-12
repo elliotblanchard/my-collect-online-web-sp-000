@@ -9,4 +9,3 @@ def my_collect(array)
 end
 
 #hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
-
